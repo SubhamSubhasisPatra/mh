@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    
+}
+h1{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+/* navigation */
+nav{
+    overflow: auto;
+    background-color: yellowgreen;
+}
+ul{
+    float: right;
+}
+li{
+    float: left;
+    list-style-type: none;
+    font-size: 25px;
+    margin: 15px;
+    padding: 8px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+aside{
+    width: 90%;
+    float: left;
+    height: 464px;
+    background-color: royalblue;
+    
+}
+section{
+    float: right;
+    height: 364px;
+    width: 40% ;
+    
+}
